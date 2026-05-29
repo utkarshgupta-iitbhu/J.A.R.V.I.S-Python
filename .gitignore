@@ -1,0 +1,6 @@
+**pycache**/
+*.pyc
+venv/
+.env
+jarvis_notes.txt
+jarvis_todos.txt
